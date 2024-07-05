@@ -38,10 +38,10 @@
   - Stemming and Lemmatizaton
   
 **Inferences:**
-    - The OCR model accurately recognized characters from the images, indicating effective preprocessing and model training.
-    - The sentiment analysis model correctly classified the sentiment of the text using Naive Bayes approach predicted by the OCR, showing robust text processing and sentiment categorization.
-    - The combined OCR and sentiment analysis pipeline efficiently converted image data into sentiment predictions, demonstrating the versatility of merging different machine learning techniques.
-    - The models performed well on test images, suggesting the training data and methods used were comprehensive and representative of the target domain.
+- The OCR model accurately recognized characters from the images, indicating effective preprocessing and model training.
+- The sentiment analysis model correctly classified the sentiment of the text using Naive Bayes approach predicted by the OCR, showing robust text processing and sentiment categorization.
+- The combined OCR and sentiment analysis pipeline efficiently converted image data into sentiment predictions, demonstrating the versatility of merging different machine learning techniques.
+- The models performed well on test images, suggesting the training data and methods used were comprehensive and representative of the target domain.
     
 **Reference Links:**
   1. https://pandas.pydata.org/docs/user_guide/index.html#user-guide
