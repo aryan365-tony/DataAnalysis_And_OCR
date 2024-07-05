@@ -6,7 +6,7 @@
   K-means Clustering algorithm
   Data Visualization Using Matplotlib
   
-- **Inferences:*
+**Inferences:*
   Data filtering includes handling empty, faulty data and selective indexing
   K-means:
     1. Choosing Random K Points
@@ -22,6 +22,7 @@
   2. https://numpy.org/doc/stable/
   3. https://matplotlib.org/stable/api/pyplot_summary.html
   4. https://youtu.be/5w5iUbTlpMQ?si=sK4P-j5niUPpFyWx
+
 **Results:*
     Printing filtered data
     Visualising filtered data
