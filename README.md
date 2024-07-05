@@ -7,26 +7,26 @@
   Data Visualization Using Matplotlib
   
 **Inferences:**
-  Data filtering includes handling empty, faulty data and selective indexing
-  K-means:
-    1. Choosing Random K Points
-    2. Calculating Eucledian Distance by each point
-    3. Implementing them as clusters and finding new median
-    4. Iterate till median stops changing
-  Matplotlib
+  - Data filtering includes handling empty, faulty data and selective indexing
+  - K-means:
+    - 1. Choosing Random K Points
+    - 2. Calculating Eucledian Distance by each point
+    - 3. Implementing them as clusters and finding new median
+    - 4. Iterate till median stops changing
+  - Matplotlib
     *Scatter plot is used to plot the data points
     *Scatter plot used to visualize identified clusters and test any random points on clusters
 
 **Reference Links:**
-  1. https://pandas.pydata.org/docs/user_guide/index.html#user-guide
-  2. https://numpy.org/doc/stable/
-  3. https://matplotlib.org/stable/api/pyplot_summary.html
-  4. https://youtu.be/5w5iUbTlpMQ?si=sK4P-j5niUPpFyWx
+  - 1. https://pandas.pydata.org/docs/user_guide/index.html#user-guide
+  - 2. https://numpy.org/doc/stable/
+  - 3. https://matplotlib.org/stable/api/pyplot_summary.html
+  - 4. https://youtu.be/5w5iUbTlpMQ?si=sK4P-j5niUPpFyWx
 
 **Results:**
-    Printing filtered data
-    Visualising filtered data
-    Visualizing Clusters in scatter plot
+    - Printing filtered data
+    - Visualising filtered data
+    - Visualizing Clusters in scatter plot
     
 
 ## Task 2
